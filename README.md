@@ -4,6 +4,20 @@ This is a test repo for everyone who wants to try with git;
 Also, here we place out ideas in `.md` files.
 Please, place yours in `project_ideas` directory.
 
+## Roles List
+
+1.	Белова Анастасия: `Anastasyia`,  менеджер проекта
+2.	Бондаренко Александр: `???`, главный аналитик
+3.	Дмитриев Павел: `pavilion13`, главный тестировщик
+4.	Иванов Никита: `BobNobrain`, гдавный архитектор
+5.	Измайлов Андрей: `IzmaylovAndrey`, главный программист
+6.	Качнов Илья: `???`, тестировщик
+7.	Павленко Дарья: `klyushka`, UI-дизайнер
+8.	Смирнов Иван: `iamnotaprogrammer`, архитектор
+9. 	Трофимов Евгений: `???`, программист
+10.	Фетисов Михаил: `agroegik`, аналитик
+
+
 ## Quick How-To of Uploading Your Idea
 
 *(for ones provided with UNIX shell:)*
